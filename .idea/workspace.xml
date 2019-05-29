@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="55d0ee9f-0067-4a2e-af5c-dd5d2dce10b3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/musicgameapp" beforeDir="false" afterPath="$PROJECT_DIR$/musicgameapp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/musicgameapp/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/musicgameapp/src/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/musicgameapp/src/FlashCardNotes.js" beforeDir="false" afterPath="$PROJECT_DIR$/musicgameapp/src/FlashCardNotes.js" afterDir="false" />
     </list>
@@ -15,9 +16,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/musicgameapp/src/App.test.js">
+        <entry file="file://$PROJECT_DIR$/musicgameapp/src/App.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="105">
+              <caret line="7" column="9" lean-forward="true" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -25,20 +27,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/musicgameapp/src/App.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="14" lean-forward="true" selection-start-line="2" selection-end-line="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/musicgameapp/src/FlashCardNotes.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="298">
-              <caret line="27" column="23" lean-forward="true" selection-start-line="27" selection-start-column="23" selection-end-line="27" selection-end-column="23" />
+            <state relative-caret-position="228">
+              <caret line="20" column="33" lean-forward="true" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
               </folding>
@@ -46,11 +39,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/musicgameapp/src/App.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="279">
-              <caret line="77" lean-forward="true" selection-start-line="77" selection-end-line="77" />
+            <state relative-caret-position="105">
+              <caret line="67" column="17" selection-start-line="67" selection-start-column="17" selection-end-line="67" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -82,8 +75,8 @@
         <option value="$PROJECT_DIR$/musicgameapp/view/routes/users.js" />
         <option value="$PROJECT_DIR$/musicgameapp/src/flashcard notes.js" />
         <option value="$PROJECT_DIR$/musicgameapp/src/App.js" />
-        <option value="$PROJECT_DIR$/musicgameapp/src/FlashCardNotes.js" />
         <option value="$PROJECT_DIR$/musicgameapp/src/App.css" />
+        <option value="$PROJECT_DIR$/musicgameapp/src/FlashCardNotes.js" />
       </list>
     </option>
   </component>
@@ -101,9 +94,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="685" />
     <option name="y" value="27" />
-    <option name="width" value="1580" />
-    <option name="height" value="616" />
+    <option name="width" value="914" />
+    <option name="height" value="817" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -141,6 +135,13 @@
               <item name="passionProject" type="462c0819:PsiDirectoryNode" />
               <item name="musicgameapp" type="462c0819:PsiDirectoryNode" />
               <item name="view" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="passionProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="passionProject" type="462c0819:PsiDirectoryNode" />
+              <item name="musicgameapp" type="462c0819:PsiDirectoryNode" />
+              <item name="view" type="462c0819:PsiDirectoryNode" />
               <item name="routes" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -163,6 +164,12 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.general" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/musicgameapp/view/public/images" />
+      <recent name="$PROJECT_DIR$/musicgameapp/src" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -191,7 +198,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1600" height="824" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Designer" />
       <window_info id="Favorites" side_tool="true" />
@@ -200,7 +206,7 @@
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" weight="0.3294964" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.3294964" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.24604316" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -232,7 +238,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/musicgameapp/src/App.test.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="135">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
@@ -241,25 +248,31 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/musicgameapp/src/App.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="14" lean-forward="true" selection-start-line="2" selection-end-line="3" />
+        <state relative-caret-position="105">
+          <caret line="7" column="9" lean-forward="true" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/musicgameapp/view/public/images/music-page-background.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/musicgameapp/src/App.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="67" column="17" selection-start-line="67" selection-start-column="17" selection-end-line="67" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/musicgameapp/src/FlashCardNotes.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="298">
-          <caret line="27" column="23" lean-forward="true" selection-start-line="27" selection-start-column="23" selection-end-line="27" selection-end-column="23" />
+        <state relative-caret-position="228">
+          <caret line="20" column="33" lean-forward="true" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
           <folding>
             <element signature="e#0#41#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/musicgameapp/src/App.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
-          <caret line="77" lean-forward="true" selection-start-line="77" selection-end-line="77" />
         </state>
       </provider>
     </entry>
