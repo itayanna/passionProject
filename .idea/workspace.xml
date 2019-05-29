@@ -3,10 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="55d0ee9f-0067-4a2e-af5c-dd5d2dce10b3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/musicgameapp" beforeDir="false" afterPath="$PROJECT_DIR$/musicgameapp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/musicgameapp/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/musicgameapp/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/musicgameapp/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/musicgameapp/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/musicgameapp/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/musicgameapp/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/musicgameapp/src/FlashCardNotes.js" beforeDir="false" afterPath="$PROJECT_DIR$/musicgameapp/src/FlashCardNotes.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -36,11 +34,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/musicgameapp/src/FlashCardNotes.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="208">
-              <caret line="23" column="25" lean-forward="true" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
+            <state relative-caret-position="298">
+              <caret line="27" column="23" lean-forward="true" selection-start-line="27" selection-start-column="23" selection-end-line="27" selection-end-column="23" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
               </folding>
@@ -48,11 +46,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/musicgameapp/src/App.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="63" column="16" selection-start-line="63" selection-start-column="16" selection-end-line="63" selection-end-column="16" />
+            <state relative-caret-position="279">
+              <caret line="77" lean-forward="true" selection-start-line="77" selection-end-line="77" />
             </state>
           </provider>
         </entry>
@@ -84,8 +82,8 @@
         <option value="$PROJECT_DIR$/musicgameapp/view/routes/users.js" />
         <option value="$PROJECT_DIR$/musicgameapp/src/flashcard notes.js" />
         <option value="$PROJECT_DIR$/musicgameapp/src/App.js" />
-        <option value="$PROJECT_DIR$/musicgameapp/src/App.css" />
         <option value="$PROJECT_DIR$/musicgameapp/src/FlashCardNotes.js" />
+        <option value="$PROJECT_DIR$/musicgameapp/src/App.css" />
       </list>
     </option>
   </component>
@@ -154,6 +152,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="javascript.nodejs.core.library.configured.version" value="8.10.0" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../MERN/project3-mern-itayanna" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -192,6 +191,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1600" height="824" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" />
       <window_info id="Favorites" side_tool="true" />
@@ -223,19 +223,19 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/musicgameapp/view/routes/users.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/musicgameapp/src/App.test.js">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/musicgameapp/view/routes/users.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
@@ -246,20 +246,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/musicgameapp/src/App.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="63" column="16" selection-start-line="63" selection-start-column="16" selection-end-line="63" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/musicgameapp/src/FlashCardNotes.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="23" column="25" lean-forward="true" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
+        <state relative-caret-position="298">
+          <caret line="27" column="23" lean-forward="true" selection-start-line="27" selection-start-column="23" selection-end-line="27" selection-end-column="23" />
           <folding>
             <element signature="e#0#41#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/musicgameapp/src/App.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="77" lean-forward="true" selection-start-line="77" selection-end-line="77" />
         </state>
       </provider>
     </entry>
